@@ -11,7 +11,7 @@ package test.projectakshat;
 public class ProjectAkshat {
 
     public static void main(String[] args) {
-        System.out.println("Feature setup complete");
+        System.out.println("This is the add-function feature");
     }
     
     
